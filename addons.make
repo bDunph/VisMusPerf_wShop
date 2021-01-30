@@ -1,0 +1,5 @@
+ofxGui
+ofxMaxim
+ofxOsc
+ofxRapidLib
+ofxXmlSettings
