@@ -1,7 +1,9 @@
-##Visual Music Performance with Machine Learning##
+## Visual Music Performance with Machine Learning ##
 
-#Controls:
+A project demonstrating control of a 3D shape using interactive machine learning.
 
-Space - randomise parameters
-t - train model
-r - record training examples
+# Controls:
+
+  - "Space" - randomise parameters
+  - "t" - train model
+  - "r" - record training examples
