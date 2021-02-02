@@ -87,7 +87,7 @@ void ofApp::update(){
     icoSphere.setRadius(radius);
     
     modelMat = icoSphere.getLocalTransformMatrix();
-    inverseMat = inverseMat.getInverse();
+    inverseMat = modelMat.getInverse();
     normalMat = inverseMat.getTransposedOf(inverseMat);
     
     float noiseScale = noiseScaleFactor;
