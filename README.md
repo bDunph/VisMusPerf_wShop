@@ -7,3 +7,4 @@ A project demonstrating control of a 3D shape using interactive machine learning
   - "Space" - randomise parameters
   - "t" - train model
   - "r" - record training examples
+  - press and drag cursor when model is trained to see and hear output
